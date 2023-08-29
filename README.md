@@ -20,11 +20,17 @@ item to its menu. Confronted with the challenge of selecting the optimal marketi
 A/B test across various markets. Here's a breakdown of the dataset's key components:
 
 MarketID: A unique identifier for each market.
+
 MarketSize: The market's size, categorized by sales volume.
+
 LocationID: A unique identifier for each store location.
+
 AgeOfStore: The age of the store in years.
+
 Promotion: One of three distinct marketing promotions that were tested.
+
 Week: One of four weeks during which the promotions were executed.
+
 SalesInThousands: The recorded sales amount for a specific LocationID, Promotion, and week.
 
 By examining this dataset, the aim is to uncover the nuanced relationships between market characteristics, store attributes,
