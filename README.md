@@ -9,7 +9,7 @@
 
 ## Overview
 
-Welcome to the Fast Food Marketing Campaign A/B Test project!The goal of this project is to meticulously evaluate the 
+Welcome to the Fast Food Marketing Campaign A/B Test project! The goal of this project is to meticulously evaluate the 
 outcomes of A/B testing, enabling us to discern the most effective marketing approach for introducing a new menu item. 
 Through a comprehensive exploration of the data, we aim to make informed decisions that will maximize the impact of 
 the marketing campaigns and drive sales growth.
